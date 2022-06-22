@@ -1,0 +1,1 @@
+{"mpg": [12, 12, 10, 10, 8, 8, 8], "length": ["Ten-Foot", "Ten-Foot", "Seventeen-Foot", "Seventeen-Foot", "Twenty-Four-Foot", "Twenty-Four-Foot", "Twenty-Four-Foot"], "num_rooms": [1, 1, 2, 2, 4, 4, 4], "vin": ["EJ5KU2435BC", "KF8JP7293EK", "KG4DM5472RK", "PR8JH4893WQ", "EP2WR3182QB", "TY3GH4290EK", "KU9FL4235RH"]}
