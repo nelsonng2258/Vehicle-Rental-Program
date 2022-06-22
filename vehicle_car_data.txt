@@ -1,4 +1,0 @@
-{"make_model": ["Chevrolet Camaro", "Chevrolet Camaro", "Ford Fusion", "Ford Fusion Hybrid", "Ford Fusion Hybrid", "Chevrolet Impala", "Chevrolet Impala"], 
-"mpg": [30, 30, 34, 35, 32, 36, 30], "numPassengers": [4, 4, 5, 5, 5, 6, 6], 
-"numDoors": [2, 2, 4, 4, 4, 4, 4], 
-"vin": ["WG8JM5492DY", "KH4GM4564GD", "AB4FG5689GM", "GH2KL4278TK", "KU4EG3245RW", "QD4PK7394JI", "RK3BM4256YH"]}
