@@ -1,1 +1,0 @@
-{"make_model": ["Chrysler Town&Country", "Chrysler Town&Country", "Chrysler Town&Country", "Dodge Caravan", "Dodge Caravan", "Ford Expedition", "Ford Expedition"], "mpg": [25, 25, 25, 25, 25, 20, 20], "numPassengers": [7, 7, 7, 7, 7, 8, 8], "vin": ["DK3KG8312UE", "VM9RE2645TD", "WK8BF4287DX", "QK3FL4278ME", "KY8EW2053XT", "JK2RT8364HY", "KH4ME4216XW"]}
