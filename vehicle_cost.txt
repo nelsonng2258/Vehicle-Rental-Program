@@ -1,5 +1,0 @@
-{"Vehicle Type": ["Car", "Van", "Truck"], 
-"Daily Rate": [24.99, 35, 34.95], 
-"Weekly Rate": [180, 220, 425], 
-"Per Mile Charge": [0.15, 0.20, 0.25], 
-"Insurance Charge": [6, 7, 8]}
